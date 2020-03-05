@@ -47,8 +47,7 @@ String lanuage;
         }else if (p.isChecked()){
             lanuage=lanuage+"Python";
 
-        }else  if(a.isChecked()){
-            lanuage=lanuage+"Android";
+        }
         }
 
         StringBuilder sb=new StringBuilder();
